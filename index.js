@@ -53,5 +53,5 @@ for(let k = 0; k < n - i; k++){
 }
 string += "\n";
 }
-console.log(string);
+console.log(string+"ff");
 
